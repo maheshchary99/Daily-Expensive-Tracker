@@ -1,1 +1,1 @@
-# Daily-Expensive-Tracker
+The Daily- Expense-Tracker is an expense management system designed for day-to-day life. The application capably tracks the daily expenses of the user. Such applications allow the users to easily manage their expenditure and hence, eliminates the need of manual paper tasks.
